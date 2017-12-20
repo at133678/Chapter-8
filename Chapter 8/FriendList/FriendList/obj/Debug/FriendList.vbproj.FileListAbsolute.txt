@@ -1,0 +1,14 @@
+C:\Users\at133678\AppData\Local\Temporary Projects\FriendList\bin\Debug\FriendList.exe.config
+C:\Users\at133678\AppData\Local\Temporary Projects\FriendList\obj\Debug\FriendList.FriendList.resources
+C:\Users\at133678\AppData\Local\Temporary Projects\FriendList\obj\Debug\FriendList.Resources.resources
+C:\Users\at133678\AppData\Local\Temporary Projects\FriendList\obj\Debug\FriendList.vbproj.GenerateResource.Cache
+C:\Users\at133678\AppData\Local\Temporary Projects\FriendList\bin\Debug\FriendList.exe
+C:\Users\at133678\AppData\Local\Temporary Projects\FriendList\bin\Debug\FriendList.pdb
+C:\Users\at133678\AppData\Local\Temporary Projects\FriendList\bin\Debug\FriendList.xml
+C:\Users\at133678\AppData\Local\Temporary Projects\FriendList\obj\Debug\FriendList.exe
+C:\Users\at133678\AppData\Local\Temporary Projects\FriendList\obj\Debug\FriendList.xml
+C:\Users\at133678\AppData\Local\Temporary Projects\FriendList\obj\Debug\FriendList.pdb
+C:\Users\at133678\Desktop\V.B\Chapter 8\FriendList\FriendList\bin\Debug\FriendList.exe.config
+C:\Users\at133678\Desktop\V.B\Chapter 8\FriendList\FriendList\obj\Debug\FriendList.exe
+C:\Users\at133678\Desktop\V.B\Chapter 8\FriendList\FriendList\obj\Debug\FriendList.xml
+C:\Users\at133678\Desktop\V.B\Chapter 8\FriendList\FriendList\obj\Debug\FriendList.pdb
